@@ -6,6 +6,7 @@ authors = [
     {name = "Daniel L Santos",email = "d.l.santos99@gmail.com"}
 ]
 readme = "README.md"
+package-mode = false
 requires-python = ">=3.13"
 dependencies = [
     "numpy (>=2.3.3,<3.0.0)",
